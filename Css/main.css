@@ -716,7 +716,7 @@ section .landing .container1 .buttons button:hover{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin:0 auto;
+         margin: 0 auto;
     }
 }
 .contact .container .left .box .small-box{
