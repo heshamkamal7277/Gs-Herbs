@@ -398,7 +398,7 @@ section .landing .container1 .buttons button:hover{
 }
 @media (max-width:767px) {
     .landing2 .container .right img{
-        margin: 15px 40px 40px;
+        margin: 25px 0 15px 27px;
         max-width: 90%;
     }
 }
@@ -716,6 +716,7 @@ section .landing .container1 .buttons button:hover{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin:0 auto;
     }
 }
 .contact .container .left .box .small-box{
